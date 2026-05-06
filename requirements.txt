@@ -1,0 +1,3 @@
+# MarkFlow - No external dependencies required
+# Pure Python implementation with zero dependencies
+# Python 3.8+ required
